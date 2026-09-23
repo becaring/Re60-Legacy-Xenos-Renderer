@@ -1,6 +1,6 @@
 # Re60 Legacy Xenos Renderer
 
-Historical source snapshot of Re60's retired Ship of Harkinian / Fast3D-derived Xbox 360 renderer. This is **not** the current Re60 renderer; the current project uses an RT64-derived Xenos backend.
+Historical source snapshot of Re60's retired pre-RT64 Fast3D/Xenos renderer. Re60 was subsequently retired; active Xbox 360 libultraship/Fast3D platform development continues in Shipyard. This repository is preserved unchanged as historical reference and is not a supported implementation.
 
 Included files:
 
